@@ -5,7 +5,7 @@ class Main extend React.Component {
   render(){
     return (
       <View>
-          <Text>Hello World</Text>
+          <Text>Hello Taxy</Text>
       </View>
     );
   }
