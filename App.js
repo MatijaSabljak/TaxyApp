@@ -19,7 +19,7 @@ const instructions = Platform.select({
     'Shake or press menu button for dev menu',
 });
 
-import Main from ".src/main";
+import Main from "./src/main";
 
 export default class App extends Component<{}> {
   render() {
